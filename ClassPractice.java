@@ -5,7 +5,7 @@ class Square{
         return area=side*side;
     }
     public  int getPerimeter(){
-        return perimeter=2*side;
+        return perimeter=4*side;
 
     }
 
